@@ -12,3 +12,8 @@ data have been collected from real patients in hospitals from Sao Paulo, Brazil.
 The aim of this
 dataset is to encourage the research and development of artificial intelligent methods which are
 able to identify if a person is infected by SARS-CoV-2 through the analysis of his/her CT scans.
+
+
+## 📖Note
+
+Given that this project demands GPU acceleration, it is highly recommended to execute it on Google Colab for superior performance.
